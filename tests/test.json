@@ -1,0 +1,32 @@
+{
+  "has_next": true,
+  "documents": {
+    "news/2023/10/06/v-permskomu-krae-na-odnom-i-tom-zhe-bilborde-reklamirovali-pohoronnoe-byuro-i-sluzhbu-v-armii-direktoru-reklamnogo-agentstva-prishlos-izvinyatsya": {
+      "version": 12,
+      "url": "news/2023/10/06/v-permskomu-krae-na-odnom-i-tom-zhe-bilborde-reklamirovali-pohoronnoe-byuro-i-sluzhbu-v-armii-direktoru-reklamnogo-agentstva-prishlos-izvinyatsya",
+      "title": "В Пермском крае на одном и том же билборде рекламировали похоронное бюро и службу в армии. Директору рекламного агентства пришлось извиняться",
+      "source": {
+        "trust": 0
+      },
+      "mobile_layout": "simple",
+      "layout": "simple",
+      "datetime": 1696593533
+    },
+    "news/2023/10/06/iz-ssha-vyslali-dvuh-rossiyskih-diplomatov": {
+      "version": 1,
+      "url": "news/2023/10/06/iz-ssha-vyslali-dvuh-rossiyskih-diplomatov",
+      "title": "Из США выслали двух российских дипломатов",
+      "source": {
+        "trust": 0
+      },
+      "mobile_layout": "simple",
+      "layout": "simple",
+      "datetime": 1696607001
+    }
+  },
+  "collection": [
+    "news/2023/10/06/iz-ssha-vyslali-dvuh-rossiyskih-diplomatov",
+    "news/2023/10/06/v-permskomu-krae-na-odnom-i-tom-zhe-bilborde-reklamirovali-pohoronnoe-byuro-i-sluzhbu-v-armii-direktoru-reklamnogo-agentstva-prishlos-izvinyatsya"
+  ],
+  "_count": 2
+}
