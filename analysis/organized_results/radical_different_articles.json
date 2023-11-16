@@ -1,0 +1,3187 @@
+{
+  "RuSentiment POSITIVE, Kaggle News POSITIVE, General Model NEGATIVE": [
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "На фоне «Барбигеймера» в США появился неожиданный хит проката. Это религиозный фильм «Звук свободы» об агенте, спасающем ребенка от рабства",
+        "date": "7/22/2023",
+        "url": "https://meduza.io/feature/2023/07/22/na-fone-barbigeymera-v-ssha-poyavilsya-neozhidannyy-hit-prokata-eto-religioznyy-film-zvuk-svobody-ob-agente-spasayuschem-rebenka-ot-rabstva",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7743003368377686
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7878149747848511
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7511605024337769
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Тихо и вкрадчиво",
+        "date": "7/22/2023",
+        "url": "https://meduza.io/feature/2023/07/22/tiho-i-vkradchivo",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6992505788803101
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.478068470954895
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516601085662842
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Met Gala 2023. Церемония была настолько захватывающей, что самым обсуждаемым ее героем стал раздавленный таракан",
+        "date": "5/2/2023",
+        "url": "https://meduza.io/feature/2023/05/02/met-gala-2023-tseremoniya-byla-nastolko-zahvatyvayuschey-chto-samym-obsuzhdaemym-ee-geroem-stal-razdavlennyy-tarakan",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7278264164924622
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5071481466293335
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516153454780579
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Все друг другу братья. И в конце обязательно напьются",
+        "date": "1/4/2023",
+        "url": "https://meduza.io/feature/2023/01/04/vse-drug-drugu-bratya-i-v-kontse-obyazatelno-napyutsya",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.4292931854724884
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6343847513198853
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751532256603241
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Бесконечная война",
+        "date": "5/2/2021",
+        "url": "https://meduza.io/feature/2021/05/02/beskonechnaya-voyna-20-let-amerikanskoy-operatsii-v-afganistane-v-fotografiyah",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.795548677444458
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4545041620731354
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516827583312988
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "18 настолько хороших книг, что каждую из них хочется перечитать",
+        "date": "1/6/2021",
+        "url": "https://meduza.io/slides/18-nastolko-horoshih-knig-chto-kazhduyu-iz-nih-hochetsya-perechitat",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.951856791973114
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8654708862304688
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516747713088989
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Идеальный рыцарь",
+        "date": "10/31/2020",
+        "url": "https://meduza.io/feature/2020/10/31/idealnyy-rytsar",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7572041749954224
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8403552770614624
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513963580131531
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Это очень дорогого стоит",
+        "date": "9/11/2020",
+        "url": "https://meduza.io/feature/2020/09/11/eto-ochen-dorogogo-stoit",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9709556102752686
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7664697766304016
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.747448742389679
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Нас ждет долгая счастливая жизнь",
+        "date": "5/8/2020",
+        "url": "https://meduza.io/feature/2020/05/08/nas-zhdet-dolgaya-schastlivaya-zhizn",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.979397714138031
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.96383136510849
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516524195671082
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Маньяк» и «Сожалею о вашей утрате»: два отличных психологических сериала, где герои разбираются с собственным прошлым",
+        "date": "9/28/2018",
+        "url": "https://meduza.io/feature/2018/09/28/manyak-i-sozhaleyu-o-vashey-utrate-dva-otlichnyh-psihologicheskih-seriala-kotorye-pomogut-razobratsya-s-sobstvennym-proshlym",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8322067856788635
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6433777809143066
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.750942051410675
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Еды навалом, хорошо живем",
+        "date": "2/5/2016",
+        "url": "https://meduza.io/feature/2016/02/05/edy-navalom-horosho-zhivem",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7968176603317261
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5791460871696472
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515002489089966
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Простой исполнитель",
+        "date": "1/13/2016",
+        "url": "https://meduza.io/feature/2016/01/13/prostoy-ispolnitel",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7499266266822815
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.37614163756370544
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514367699623108
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Просто воевать нравится",
+        "date": "10/8/2015",
+        "url": "https://meduza.io/feature/2015/10/08/prosto-voevat-nravitsya",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.936602771282196
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6093240976333618
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751319944858551
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Идеальный шторм",
+        "date": "1/15/2015",
+        "url": "https://meduza.io/feature/2015/01/15/idealnyy-shtorm",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7197420597076416
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5568557977676392
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515196204185486
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Наконец-то вышла «Мулан» — китайская сказка на голливудский лад",
+        "date": "9/10/2020",
+        "url": "feature/2020/09/10/nakonets-to-vyshla-mulan-kitayskaya-skazka-na-gollivudskiy-lad",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9523799419403076
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9417853355407715
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516387701034546
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Алина Загитова и Евгения Медведева — лучшие фигуристки планеты. Почему это настоящее спортивное чудо",
+        "date": "3/23/2019",
+        "url": "feature/2019/03/23/alina-zagitova-i-evgeniya-medvedeva-luchshie-figuristki-planety-pochemu-eto-nastoyaschee-sportivnoe-chudo",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9805132746696472
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4460054636001587
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516394257545471
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "военная служба"
+      },
+      "article": {
+        "title": "ГРУ здорового человека",
+        "subtitle": "Жизнь российского разведчика-нелегала: засады, женщины, погони",
+        "date": "10/10/2018",
+        "url": "https://novayagazeta.ru/articles/2018/10/10/78149-gru-zdorovogo-cheloveka",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7213376760482788
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5686886310577393
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515116333961487
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Они победили",
+        "subtitle": "Первые в списке Героев Советского Союза — русские. Вторую строку занимают украинцы",
+        "date": "5/13/2023",
+        "url": "https://novayagazeta.ru/articles/2023/05/12/oni-pobedili",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7847076058387756
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7466210722923279
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.75150066614151
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Империя и величие!",
+        "subtitle": "Почему граждане Сербии так любят Владимира Путина",
+        "date": "10/12/2022",
+        "url": "https://novayagazeta.ru/articles/2022/10/12/imperiia-i-velichie-media",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9159945249557495
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5794919729232788
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515367865562439
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Империя и величие!",
+        "subtitle": "Почему граждане Сербии так любят Владимира Путина",
+        "date": "10/12/2022",
+        "url": "https://novayagazeta.ru/articles/2022/10/12/imperiia-i-velichie-media",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9159945249557495
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5794919729232788
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515367865562439
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Настоящие братья",
+        "subtitle": "Пока Россия ведет в Украине «спецоперацию», европейские страны одна за другой протягивают украинским беженцам руку помощи. Им дают кров, деньги, работу. Простые люди селят их в свои квартиры",
+        "date": "3/15/2022",
+        "url": "https://novayagazeta.ru/articles/2022/03/15/nastoiashchie-bratia",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9181029796600342
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8861475586891174
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751716136932373
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Чудеса на рубежах",
+        "subtitle": "Евразийская внешняя политика Кремля и сегодня основывается на страхе перед усилением Турции на юге и Польши на западе",
+        "date": "12/19/2020",
+        "url": "https://novayagazeta.ru/articles/2020/12/19/88453-chudesa-na-rubezhah",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9651806354522705
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8941665887832642
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516804933547974
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Громче голос! ",
+        "subtitle": "Участвовать в политике здесь и сейчас. Программная статья Григория Явлинского",
+        "date": "2/27/2019",
+        "url": "https://novayagazeta.ru/articles/2019/02/27/79720-gromche-golos",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9215376377105713
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.49520358443260193
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515341639518738
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "120 памперсов и вечная слава",
+        "subtitle": "Жители подмосковного военного городка всем миром помогают пенсионеркам, у которых сгорел дом. Власти тоже не стоят в стороне: читают стихи и напоминают о законах",
+        "date": "9/18/2018",
+        "url": "https://novayagazeta.ru/articles/2018/09/18/77873-120-pampersov-i-vechnaya-slava",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.92876136302948
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9745711088180542
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751502275466919
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Война и любовь, война и правда",
+        "subtitle": "О фильмах «Холодная война» Павликовского, который претендует на главный приз Канн, и о «Донбассе» Лозницы, который у нас не покажут",
+        "date": "5/11/2018",
+        "url": "https://novayagazeta.ru/articles/2018/05/11/76431-spasibo-serdtse",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6429039239883423
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5545855760574341
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516431212425232
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Русский мир стал сюрпризом",
+        "subtitle": "Решение Владимира Путина завершить военную операцию в Сирии застало Вашингтон врасплох",
+        "date": "3/15/2016",
+        "url": "https://novayagazeta.ru/articles/2016/03/15/67787-russkiy-mir-stal-syurprizom",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6650444865226746
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9470573663711548
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7506683468818665
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Красиво и грустно",
+        "subtitle": "В Россию приехал с гастролями Донецкий театр оперы и балета",
+        "date": "6/5/2015",
+        "url": "https://novayagazeta.ru/articles/2015/06/05/64425-krasivo-i-grustno",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.831236720085144
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.53095942735672
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7517322897911072
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Очень хочется строить",
+        "subtitle": "Несколько историй о людях, которым нужен мир",
+        "date": "2/23/2015",
+        "url": "https://novayagazeta.ru/articles/2015/02/23/63158-ochen-hochetsya-stroit",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9515591859817505
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6923961043357849
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515782117843628
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Они победили",
+        "subtitle": "Первые в списке Героев Советского Союза — русские. Вторую строку занимают украинцы",
+        "date": "5/13/2023",
+        "url": "https://novayagazeta.ru/articles/2023/05/12/oni-pobedili",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7847076058387756
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7466210722923279
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.75150066614151
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Ангел жизни",
+        "subtitle": "Как люди могут есть, пить, спать, любезничать, ходить в гости, пить чай, играть в карты, когда прямо рядом с ними происходит ужасное?",
+        "date": "3/25/2022",
+        "url": "https://novayagazeta.ru/articles/2022/03/25/angel-zhizni",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8293095827102661
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7946239113807678
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751707136631012
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Ангел жизни",
+        "subtitle": "Как люди могут есть, пить, спать, любезничать, ходить в гости, пить чай, играть в карты, когда прямо рядом с ними происходит ужасное?",
+        "date": "3/25/2022",
+        "url": "https://novayagazeta.ru/articles/2022/03/25/angel-zhizni",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8293095827102661
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7946239113807678
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751707136631012
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Ха!",
+        "subtitle": "В истории «золотой судьи» Хахалевой важно не возбуждение против нее дела о мошенничестве, а тот факт, что ей позволили покинуть пределы РФ",
+        "date": "12/16/2021",
+        "url": "https://novayagazeta.ru/articles/2021/12/16/kha",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9628784656524658
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4711132049560547
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515900731086731
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Оксимирон здорового человека",
+        "subtitle": "Вышел новый альбом Noize MC «Выход в город»",
+        "date": "11/19/2021",
+        "url": "https://novayagazeta.ru/articles/2021/11/19/oksimiron-zdorovogo-cheloveka",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9763568639755249
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6003936529159546
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515599727630615
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Сердце Родины",
+        "subtitle": "Монолог старейшего кардиохирурга России о счастье",
+        "date": "4/17/2021",
+        "url": "https://novayagazeta.ru/articles/2021/04/17/serdtse-rodiny",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6414650082588196
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5873898863792419
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515722513198853
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Babiy Jar",
+        "subtitle": "На дне гигантского карьера едва шевелят лопатами несколько десятков советских военнопленных. Как называется это место? Ответят пленки Хеле (18+)",
+        "date": "5/10/2020",
+        "url": "https://novayagazeta.ru/articles/2020/05/10/85250-babiy-jar",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.5910136103630066
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.3483436405658722
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514747381210327
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Хорошая война",
+        "subtitle": "Батальное кино Америки",
+        "date": "5/9/2020",
+        "url": "https://novayagazeta.ru/articles/2020/05/09/85290-horoshaya-voyna",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9854884743690491
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.82478266954422
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516844868659973
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Они сохранили горе и подвиг",
+        "subtitle": "Если есть кому перевязывать, и ты фотограф — снимай! Если нет — перевязывай сам",
+        "date": "5/8/2020",
+        "url": "https://novayagazeta.ru/articles/2020/05/08/85257-oni-sohranili-gore-i-podvig",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.5587397813796997
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9011557102203369
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515479326248169
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Звездный электорат",
+        "subtitle": "Роберт де Ниро против Клинта Иствуда: кого поддержит Голливуд на президентских выборах в США ",
+        "date": "2/3/2020",
+        "url": "https://novayagazeta.ru/articles/2020/02/03/83757-zvezdnyy-elektorat",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.589397132396698
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.704689085483551
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.46803516149520874
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Клич «Наших детей убивают!» хорошо объединяет",
+        "subtitle": "Как городские легенды о врачах-убийцах и отравленных иностранцами жвачках становятся смертельным оружием в руках власти",
+        "date": "12/17/2019",
+        "url": "https://novayagazeta.ru/articles/2019/12/17/83191-klich-nashih-detey-ubivayut-horosho-ob-edinyaet",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8297296166419983
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.645218551158905
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516491413116455
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Круче гор только СОБРы",
+        "subtitle": "Силовики ищут организаторов московских «массовых беспорядков» на Северном Кавказе",
+        "date": "8/17/2019",
+        "url": "https://novayagazeta.ru/articles/2019/08/17/81638-kruche-gor-tolko-sobry",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7124991416931152
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7752125859260559
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7517141699790955
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Не просто гениально, а гениально просто",
+        "subtitle": "Кем был Вячеслав Колейчук и что он сделал для искусства: рассказывает Ким Смирнов",
+        "date": "4/22/2019",
+        "url": "https://novayagazeta.ru/articles/2019/04/22/80320-prosto-on-rabotal-volshebnikom",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9528335928916931
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7553388476371765
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515556216239929
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Война и любовь, война и правда",
+        "subtitle": "О фильмах «Холодная война» Павликовского, который претендует на главный приз Канн, и о «Донбассе» Лозницы, который у нас не покажут",
+        "date": "5/11/2018",
+        "url": "https://novayagazeta.ru/articles/2018/05/11/76431-spasibo-serdtse",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6429039239883423
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5545855760574341
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516431212425232
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Великая война диванов",
+        "subtitle": "18 марта можно будет сидеть дома назло Кремлю, а можно делать то же самое в поддержку стабильности",
+        "date": "2/3/2018",
+        "url": "https://novayagazeta.ru/articles/2018/02/03/75376-velikaya-voyna-divanov",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.931425154209137
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5628095865249634
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516929507255554
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Love story",
+        "subtitle": "И не могу равно представить день я, когда его не будет… и меня...",
+        "date": "12/10/2017",
+        "url": "https://novayagazeta.ru/articles/2017/12/10/74863-love-story",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6078802347183228
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5725652575492859
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516929507255554
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Дюнкерк» Нолана: обыкновенное чудо",
+        "subtitle": "Эпос об одном из самых важных и загадочных событий Второй Мировой — надо смотреть",
+        "date": "7/25/2017",
+        "url": "https://novayagazeta.ru/articles/2017/07/25/73237-dyunkerk-nolana-obyknovennoe-chudo",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8873004913330078
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6512371897697449
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516127824783325
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Великая, но не только Отечественная",
+        "subtitle": "Вклад союзников по антигитлеровской коалиции в победу над нацизмом",
+        "date": "5/4/2017",
+        "url": "https://novayagazeta.ru/articles/2017/05/04/72381-velikaya-no-ne-tolko-otechestvennaya",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7401098608970642
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8180269598960876
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515678405761719
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Красиво и грустно",
+        "subtitle": "В Россию приехал с гастролями Донецкий театр оперы и балета",
+        "date": "6/5/2015",
+        "url": "https://novayagazeta.ru/articles/2015/06/05/64425-krasivo-i-grustno",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.831236720085144
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.53095942735672
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7517322897911072
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Очень хочется строить",
+        "subtitle": "Несколько историй о людях, которым нужен мир",
+        "date": "2/23/2015",
+        "url": "https://novayagazeta.ru/articles/2015/02/23/63158-ochen-hochetsya-stroit",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9515591859817505
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6923961043357849
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515782117843628
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Счастливые дни",
+        "subtitle": "В эти дни вспоминаем Алексея БАЛАБАНОВА, которому исполнилось бы 55.",
+        "date": "2/28/2014",
+        "url": "https://novayagazeta.ru/articles/2014/02/28/58556-schastlivye-dni",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9779859781265259
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9009876847267151
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516192197799683
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Всё это очень показательно",
+        "subtitle": "Как онлайн-платформы свой фестиваль сочинили",
+        "date": "9/30/2022",
+        "url": "https://novayagazeta.ru/articles/2022/09/30/vsio-eto-ochen-pokazatelno-media",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9767484664916992
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6420429944992065
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515525221824646
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Всё это очень показательно",
+        "subtitle": "Как онлайн-платформы свой фестиваль сочинили",
+        "date": "9/30/2022",
+        "url": "https://novayagazeta.ru/articles/2022/09/30/vsio-eto-ochen-pokazatelno-media",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9767484664916992
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6420429944992065
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515525221824646
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Великая война диванов",
+        "subtitle": "18 марта можно будет сидеть дома назло Кремлю, а можно делать то же самое в поддержку стабильности",
+        "date": "2/3/2018",
+        "url": "https://novayagazeta.ru/articles/2018/02/03/75376-velikaya-voyna-divanov",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.931425154209137
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5628095865249634
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516929507255554
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Великая, но не только Отечественная",
+        "subtitle": "Вклад союзников по антигитлеровской коалиции в победу над нацизмом",
+        "date": "5/4/2017",
+        "url": "https://novayagazeta.ru/articles/2017/05/04/72381-velikaya-no-ne-tolko-otechestvennaya",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7401098608970642
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8180269598960876
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515678405761719
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Женщина, жизнь, свобода!",
+        "subtitle": "Иран в ожидании общенациональной забастовки: что происходит?",
+        "date": "11/21/2022",
+        "url": "https://novayagazeta.ru/articles/2022/11/21/zhenshchina-zhizn-svoboda-media",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9187825918197632
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5884864926338196
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516114115715027
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Женщина, жизнь, свобода!",
+        "subtitle": "Иран в ожидании общенациональной забастовки: что происходит?",
+        "date": "11/21/2022",
+        "url": "https://novayagazeta.ru/articles/2022/11/21/zhenshchina-zhizn-svoboda-media",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9187825918197632
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5884864926338196
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516114115715027
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "14 лет для счастливого человека",
+        "subtitle": "Оглашен приговор по делу «Белгазпромбанка». Кандидат в президенты Виктор Бабарико приговорен к 14 годам лишения свободы — это почти три президентских срока",
+        "date": "7/6/2021",
+        "url": "https://novayagazeta.ru/articles/2021/07/06/14-let-dlia-schastlivogo-cheloveka",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7224096655845642
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.868635892868042
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513431906700134
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "«Есть такая Нина, которая все-таки смогла»",
+        "subtitle": "История дагестанской женщины, пережившей обрезание в детстве и насилие в браке, которая добивается равноправия в родной республике",
+        "date": "3/8/2021",
+        "url": "https://novayagazeta.ru/articles/2021/03/08/est-takaia-nina-kotoraia-vse-taki-smogla",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7386338710784912
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7920895218849182
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513793110847473
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "«Главное, что все это закончилось»",
+        "subtitle": "Как у Мещанского суда ждали приговора по делу «Седьмой студии» ",
+        "date": "6/26/2020",
+        "url": "https://novayagazeta.ru/articles/2020/06/26/86031-glavnoe-chto-vse-eto-zakonchilos",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9161038398742676
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.8606430888175964
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515881657600403
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Оптимизм по графику",
+        "subtitle": "О чем говорит и о чем молчит российская экономическая статистика ",
+        "date": "5/27/2020",
+        "url": "https://novayagazeta.ru/articles/2020/05/27/85564-optimizm-po-grafiku",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7407999038696289
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.47898024320602417
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513972520828247
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Клич «Наших детей убивают!» хорошо объединяет",
+        "subtitle": "Как городские легенды о врачах-убийцах и отравленных иностранцами жвачках становятся смертельным оружием в руках власти",
+        "date": "12/17/2019",
+        "url": "https://novayagazeta.ru/articles/2019/12/17/83191-klich-nashih-detey-ubivayut-horosho-ob-edinyaet",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8297296166419983
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.645218551158905
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516491413116455
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Премьер призвал французов чуть больше работать. Какой смельчак!",
+        "subtitle": "Глава правительства обнародовал тезисы пенсионной реформы и этим «спровоцировал» протестующих на новые акции",
+        "date": "12/12/2019",
+        "url": "https://novayagazeta.ru/articles/2019/12/12/83125-premier-prizval-frantsuzov-chut-bolshe-rabotat-kakoy-smelchak",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.4002252221107483
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9624444246292114
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516653537750244
+        }
+      }
+    },
+    {
+      "site name": "PERVYI_KANAL",
+      "search term": {
+        "search term": "военная служба"
+      },
+      "article": {
+        "title": "По законам военного времени. Победа! Анонс",
+        "subtitle": "Изменившиеся условия, интриги, расследования, новые персонажи, неожиданные перевоплощения — в новых сериях исторического детектива о службе следователей военной прокуратуры. Не пропустите продолжение сериала на Первом.",
+        "date": "04/26/2021",
+        "url": "https://www.1tv.ru/shows/promoroliki/kino-i-serialy/po-zakonam-voennogo-vremeni-pobeda-anons-2021-04-26-1",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.706313967704773
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6946580410003662
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514567375183105
+        }
+      }
+    },
+    {
+      "site name": "PERVYI_KANAL",
+      "search term": {
+        "search term": "военная служба"
+      },
+      "article": {
+        "title": "По законам военного времени. Победа! Анонс",
+        "subtitle": "Смотрите на Первом восьмисерийное продолжение детектива о службе следователей военной прокуратуры Рокотова и Елагиной и их помощника шофера Федоренко во время Великой Отечественной войны.",
+        "date": "04/26/2021",
+        "url": "https://www.1tv.ru/shows/promoroliki/kino-i-serialy/po-zakonam-voennogo-vremeni-pobeda-anons-2021-04-26",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.706313967704773
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6946580410003662
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514567375183105
+        }
+      }
+    },
+    {
+      "site name": "PERVYI_KANAL",
+      "search term": {
+        "search term": "военная служба"
+      },
+      "article": {
+        "title": "По законам военного времени. Победа! Анонс",
+        "subtitle": "На Первом — восьмисерийное продолжение детектива о службе следователей военной прокуратуры Рокотова и Елагиной и их помощника шофера Федоренко во время Великой Отечественной войны.",
+        "date": "04/26/2021",
+        "url": "https://www.1tv.ru/shows/promoroliki/kino-i-serialy/po-zakonam-voennogo-vremeni-pobeda-anons",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.706313967704773
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6946580410003662
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514567375183105
+        }
+      }
+    },
+    {
+      "site name": "TASS",
+      "search term": {
+        "search term": "военная служба"
+      },
+      "article": {
+        "title": "Песков заявил, что гордится своим сыном, принявшим участие в СВО",
+        "subtitle": "",
+        "date": "4/24/2023",
+        "url": "https://tass.ru/politika/17596527",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.5026796460151672
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9332322478294373
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514679431915283
+        }
+      }
+    },
+    {
+      "site name": "TASS",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Долгожданное воссоединение.",
+        "subtitle": "Путин обратился к россиянам в день принятия новых регионов",
+        "date": "9/30/2023",
+        "url": "https://tass.ru/obschestvo/18881083",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8947250247001648
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.729928731918335
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513747215270996
+        }
+      }
+    },
+    {
+      "site name": "TASS",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Долгожданное воссоединение.",
+        "subtitle": "Путин обратился к россиянам в день принятия новых регионов",
+        "date": "9/30/2023",
+        "url": "https://tass.ru/obschestvo/18881083",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.8947248458862305
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7299290299415588
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513747811317444
+        }
+      }
+    },
+    {
+      "site name": "TASS",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Самокритичный гений.",
+        "subtitle": "Сергей Рахманинов глазами Дениса Мацуева и современников композитора",
+        "date": "3/31/2023",
+        "url": "https://tass.ru/kultura/17408435",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9362915754318237
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.3880999684333801
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515063285827637
+        }
+      }
+    },
+    {
+      "site name": "TASS",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Две мечты.",
+        "subtitle": "К чему стремятся россияне и американцы",
+        "date": "1/16/2019",
+        "url": "https://tass.ru/opinions/5995330",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.521760880947113
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6376107931137085
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515797019004822
+        }
+      }
+    },
+    {
+      "site name": "TASS",
+      "search term": {
+        "search term": "специальная военная операция"
+      },
+      "article": {
+        "title": "Песков заявил, что гордится своим сыном, принявшим участие в СВО",
+        "subtitle": "",
+        "date": "4/24/2023",
+        "url": "https://tass.ru/politika/17596527",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.502681314945221
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9332320094108582
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514679431915283
+        }
+      }
+    }
+  ],
+  "RuSentiment POSITIVE, Kaggle News NEGATIVE, General Model POSITIVE": [
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Мальчик записал видео о том, как его травят в школе. Теперь десятки знаменитостей пишут ему, что он классный!",
+        "date": "12/11/2017",
+        "url": "https://meduza.io/feature/2017/12/11/malchik-zapisal-video-o-tom-kak-ego-travyat-v-shkole-teper-desyatki-znamenitostey-pishut-emu-chto-on-klassnyy",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7937082648277283
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.8121224641799927
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.95904541015625
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Медведеву рассказали, что у него больше подписчиков в инстаграме, чем у Навального. Он обрадовался 😜",
+        "date": "9/25/2017",
+        "url": "https://meduza.io/shapito/2017/09/25/medvedevu-rasskazali-chto-u-nego-bolshe-podpischikov-v-instagrame-chem-u-navalnogo-on-obradovalsya",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6488646864891052
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.3596055805683136
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.9622346758842468
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Хрупкое счастье президента",
+        "subtitle": "Выводы комиссии Мюллера: Россия вмешивалась в американские выборы, Трамп не вступал в сговор с Кремлем",
+        "date": "3/26/2019",
+        "url": "https://novayagazeta.ru/articles/2019/03/26/79991-hrupkoe-schastie-prezidenta",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9783424139022827
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.5179510116577148
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.9574196934700012
+        }
+      }
+    }
+  ],
+  "RuSentiment POSITIVE, Kaggle News NEGATIVE, General Model NEGATIVE": [
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Он все-таки был человек бесстрашный»",
+        "date": "7/9/2018",
+        "url": "https://meduza.io/feature/2018/07/09/on-vse-taki-byl-chelovek-besstrashnyy",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7933946847915649
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.5008724927902222
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7509924173355103
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Изумление: сколько страхов вылезло наружу»",
+        "date": "6/22/2016",
+        "url": "https://meduza.io/feature/2016/06/22/izumlenie-skolko-strahov-vylezlo-naruzhu",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.6730123162269592
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.45640039443969727
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7508307695388794
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Весь мир струхнул! ",
+        "subtitle": "Испытания китайской гиперзвуковой ракеты, похожей на российский «Авангард»: третья ядерная сверхдержава — уже на подходе",
+        "date": "10/19/2021",
+        "url": "https://novayagazeta.ru/articles/2021/10/19/ves-mir-strukhnul",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7165804505348206
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.5202282071113586
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516041994094849
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Кольца безумной ярости",
+        "subtitle": "На Олимпиаде в Токио одни спортсмены встают на колено, а другие отказываются соревноваться с «мнимыми врагами», превращая Игры в театр абсурда",
+        "date": "7/24/2021",
+        "url": "https://novayagazeta.ru/articles/2021/07/24/koltsa-bezumnoi-iarosti",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.639596164226532
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.42805957794189453
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516393661499023
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "ТВ, леденящее душу",
+        "subtitle": "Всё показанное по телевизору  правда, а правда  всё показанное по телевизору",
+        "date": "7/17/2014",
+        "url": "https://novayagazeta.ru/articles/2014/07/17/60385-tv-ledenyaschee-dushu",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9211248159408569
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6399635672569275
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515020370483398
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Горькая нота",
+        "subtitle": "О поэзии Георгия Бородянского, которую одобрил Юрий Левитанский",
+        "date": "2/18/2021",
+        "url": "https://novayagazeta.ru/articles/2021/02/18/89291-gorkaya-nota",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.4307888448238373
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.5963175296783447
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7506535053253174
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Бешеный принтер",
+        "subtitle": "В Мурманске пытаются закрыть независимое информагентство",
+        "date": "10/5/2018",
+        "url": "https://novayagazeta.ru/articles/2018/10/05/78075-beshenyy-printer",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7438061237335205
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6671152114868164
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515441179275513
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Блистательные неудачники",
+        "subtitle": "Как каталонцы в течение 350 лет ставили не на тех",
+        "date": "11/27/2017",
+        "url": "https://novayagazeta.ru/articles/2017/11/27/74695-blistatelnye-neudachniki",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.7866926789283752
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.8546468019485474
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513632774353027
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Оквадраченное сердце",
+        "subtitle": "Откуда в детях берется страх",
+        "date": "12/25/2015",
+        "url": "https://novayagazeta.ru/articles/2015/12/25/66939-okvadrachennoe-serdtse",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9635705351829529
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6494142413139343
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514642477035522
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "контрактник"
+      },
+      "article": {
+        "title": "Оквадраченное сердце",
+        "subtitle": "Откуда в детях берется страх",
+        "date": "12/25/2015",
+        "url": "https://novayagazeta.ru/articles/2015/12/25/66939-okvadrachennoe-serdtse",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9635705351829529
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6494142413139343
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514642477035522
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Кольца безумной ярости",
+        "subtitle": "На Олимпиаде в Токио одни спортсмены встают на колено, а другие отказываются соревноваться с «мнимыми врагами», превращая Игры в театр абсурда",
+        "date": "7/24/2021",
+        "url": "https://novayagazeta.ru/articles/2021/07/24/koltsa-bezumnoi-iarosti",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.639596164226532
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.42805957794189453
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516393661499023
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Хорошо беспросветно ",
+        "subtitle": "Песни, выпущенные в апреле по-русски, несмотря ни на что: «Аукцыон», Кинчев, Вася Обломов, Макаревич, «Сплин» и другие",
+        "date": "4/30/2020",
+        "url": "https://novayagazeta.ru/articles/2020/04/30/85163-horosho-besprosvetno",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.9684328436851501
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6385121941566467
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515444755554199
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Буходные",
+        "subtitle": "Застолья завершаются как теракты — массовыми похоронами",
+        "date": "11/24/2015",
+        "url": "https://novayagazeta.ru/articles/2015/11/24/66508-buhodnye",
+        "RuSentiment Model": {
+          "label": "POSITIVE",
+          "score": 0.37104254961013794
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.39795011281967163
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516199946403503
+        }
+      }
+    }
+  ],
+  "RuSentiment NEGATIVE, Kaggle News NEGATIVE, General Model POSITIVE": [
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Все как-то мрачненько… Не расстраивайтесь! У нас хотя бы есть мемы с сиба-ину — о разнице поколений (хотя они тоже немного обидные)",
+        "date": "7/4/2020",
+        "url": "https://meduza.io/shapito/2020/07/04/vse-kak-to-mrachnenko-ne-rasstraivaytes-u-nas-hotya-by-est-memy-s-siba-inu-o-raznitse-pokoleniy-hotya-oni-tozhe-nemnogo-obidnye",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8349451422691345
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.8140239715576172
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.45619526505470276
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "«Хорошая страна, просто попала в плохие руки»",
+        "subtitle": "Говорят украинские девочки, вывезенные из Донецка",
+        "date": "2/8/2015",
+        "url": "https://novayagazeta.ru/articles/2015/02/08/62978-171-horoshaya-strana-prosto-popala-v-plohie-ruki-187",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.41944772005081177
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.4823282063007355
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.6604536175727844
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Вся «Новая газета» и все, кто там работал и работает. Живые и убитые. Это их премия ",
+        "subtitle": "Политики и журналисты — о присуждении Дмитрию Муратову Нобелевской премии мира",
+        "date": "10/8/2021",
+        "url": "https://novayagazeta.ru/articles/2021/10/08/vsia-novaia-gazeta-i-vse-kto-tam-rabotal-i-rabotaet-zhivye-i-ubitye-eto-ikh-premiia",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7955567240715027
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.8231890201568604
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.6823670864105225
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Позор и ошеломляющий провал»",
+        "subtitle": "Пресса Америки разгоняет политический шторм вокруг Афганистана и решения Байдена",
+        "date": "8/17/2021",
+        "url": "https://novayagazeta.ru/articles/2021/08/17/pozor-i-oshelomliaiushchii-proval",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6473122835159302
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.8554515838623047
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.5581484436988831
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Ты моих выслал, я твоих выгоню",
+        "subtitle": "Леонид Млечин — о дипломатических войнах в СССР",
+        "date": "7/29/2017",
+        "url": "https://novayagazeta.ru/articles/2017/07/29/73275-ty-moih-vyslal-ya-tvoih-vygonyu",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8495025038719177
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6123765707015991
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.46997740864753723
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Хорошая страна, просто попала в плохие руки»",
+        "subtitle": "Говорят украинские девочки, вывезенные из Донецка",
+        "date": "2/8/2015",
+        "url": "https://novayagazeta.ru/articles/2015/02/08/62978-171-horoshaya-strana-prosto-popala-v-plohie-ruki-187",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.41944772005081177
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.4823282063007355
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.6604536175727844
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Бред собственной безопасности",
+        "subtitle": "В российский Совбез нужно пригласить Билла Гейтса с образовательной лекцией «Роль интернета в современном мире»",
+        "date": "9/20/2014",
+        "url": "https://novayagazeta.ru/articles/2014/09/20/61233-bred-sobstvennoy-bezopasnosti",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8672048449516296
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6642127633094788
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.5288875699043274
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Каудильизм, хоть имя дико",
+        "subtitle": "Россия цепляется за технологию «дедасо», назначения преемника, хотя она теряет популярность даже в Латинской Америке",
+        "date": "2/28/2014",
+        "url": "https://novayagazeta.ru/articles/2014/02/28/58553-kaudilizm-hot-imya-diko-133",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9143548011779785
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.6586849093437195
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.9245734810829163
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Добротой по Дурости и Трусости",
+        "subtitle": "Артемий Троицкий — о «ДДТ»",
+        "date": "5/15/2017",
+        "url": "https://novayagazeta.ru/articles/2017/05/15/72439-horoshiy-chelovek-kak-professiya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.5634660720825195
+        },
+        "Kaggle News Model": {
+          "label": "NEGATIVE",
+          "score": 0.8024187088012695
+        },
+        "General Model": {
+          "label": "POSITIVE",
+          "score": 0.9080542325973511
+        }
+      }
+    }
+  ],
+  "RuSentiment NEGATIVE, Kaggle News POSITIVE, General Model NEGATIVE": [
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Вышел второй сезон «И просто так». Пустой и глупый",
+        "date": "7/3/2023",
+        "url": "https://meduza.io/feature/2023/07/03/vyshel-vtoroy-sezon-i-prosto-tak-pustoy-i-glupyy",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.83049076795578
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5094782710075378
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.75156170129776
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Противовоздушный щит надежный, реакция экстренных служб моментальная, провокация провалилась»",
+        "date": "5/30/2023",
+        "url": "https://meduza.io/feature/2023/05/30/protivovozdushnyy-schit-nadezhnyy-reaktsiya-ekstrennyh-sluzhb-momentalnaya-provokatsiya-provalilas",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7171193361282349
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.3773147463798523
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514632344245911
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Зато не как собака сдохну, а как герой»",
+        "date": "5/25/2023",
+        "url": "https://meduza.io/feature/2023/05/25/zato-ne-kak-sobaka-sdohnu-a-kak-geroy",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.46107715368270874
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5627601146697998
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515371441841125
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Дети в России читают (очень плохие) стихи и поют песни в поддержку войны. Это по-настоящему страшно",
+        "date": "4/12/2023",
+        "url": "https://meduza.io/video/2023/04/12/deti-v-rossii-chitayut-ochen-plohie-stihi-i-poyut-pesni-v-podderzhku-voyny-eto-po-nastoyaschemu-strashno",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9696821570396423
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5658130645751953
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515190839767456
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "ВСУ продолжают сдерживать российское наступление в Донбассе. Вместе с ними на передовой — врачи-добровольцы. Вот как они спасают жизни украинских военных",
+        "date": "12/12/2022",
+        "url": "https://meduza.io/feature/2022/12/12/vsu-prodolzhayut-sderzhivat-rossiyskoe-nastuplenie-v-donbasse-vmeste-s-nimi-na-peredovoy-vrachi-dobrovoltsy-vot-kak-oni-spasayut-zhizni-ukrainskih-voennyh",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.5239888429641724
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9860192537307739
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515570521354675
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Войска буквально тонут в грязи. Но война продолжается",
+        "date": "12/2/2022",
+        "url": "https://meduza.io/video/2022/12/02/voyska-bukvalno-tonut-v-gryazi-no-voyna-prodolzhaetsya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.469849169254303
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7042146921157837
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515325546264648
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Дроны — символ последних войн, в том числе в Украине. И серьезная этическая проблема",
+        "date": "9/9/2022",
+        "url": "https://meduza.io/feature/2022/09/09/drony-simvol-poslednih-voyn-v-tom-chisle-v-ukraine-i-serieznaya-eticheskaya-problema",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7081529498100281
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6638699769973755
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516732215881348
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Договор о дружбе с ДНР и ЛНР, принятый депутатами Госдумы, дал старт войне. Но многих из этих депутатов попросту никто не выбирал",
+        "date": "8/12/2022",
+        "url": "https://meduza.io/feature/2022/08/12/dogovor-o-druzhbe-s-dnr-i-lnr-prinyatyy-deputatami-gosdumy-dal-start-voyne-no-mnogih-iz-etih-deputatov-poprostu-nikto-ne-vybiral",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6728155016899109
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.9141177535057068
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514858841896057
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "В трудные времена многие люди, к сожалению, срываются на детях. Например, кричат на них. Как перестать это делать?",
+        "date": "7/3/2022",
+        "url": "https://meduza.io/feature/2022/07/03/v-trudnye-vremena-mnogie-lyudi-k-sozhaleniyu-sryvayutsya-na-detyah-naprimer-krichat-na-nih-kak-perestat-eto-delat",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.5844751596450806
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4938063323497772
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514809966087341
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Чеченские ЛГБТ-женщины все чаще обращаются за помощью, чтобы уехать из республики. Они бегут от пыток, домашнего насилия и полицейского преследования",
+        "date": "6/20/2022",
+        "url": "https://meduza.io/feature/2022/06/20/chechenskie-lgbt-zhenschiny-vse-chasche-obraschayutsya-za-pomoschyu-chtoby-uehat-iz-respubliki-oni-begut-ot-pytok-domashnego-nasiliya-i-politseyskogo-presledovaniya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9126346111297607
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5639359354972839
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7514362931251526
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Вечная война",
+        "date": "3/3/2022",
+        "url": "https://meduza.io/feature/2022/03/03/vechnaya-voyna",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6401512622833252
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.652533233165741
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516516447067261
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Еще не всех дураков война поубивала»",
+        "date": "3/9/2021",
+        "url": "https://meduza.io/shapito/2021/03/09/esche-ne-vseh-durakov-voyna-poubivala",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.46505504846572876
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.42735227942466736
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516858577728271
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Что было стыдно пропустить в 2018 году",
+        "date": "12/30/2018",
+        "url": "https://meduza.io/slides/chto-bylo-stydno-propustit-v-2018-godu",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7850781083106995
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5671552419662476
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751529335975647
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Все мои лучшие песни — грустные",
+        "date": "1/16/2018",
+        "url": "https://meduza.io/feature/2018/01/16/vse-moi-luchshie-pesni-grustnye",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8927315473556519
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4817550480365753
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515232563018799
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Что было стыдно пропустить в 2017 году",
+        "date": "12/30/2017",
+        "url": "https://meduza.io/slides/chto-bylo-stydno-propustit-v-2017-godu",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8150061368942261
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5585907697677612
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751018762588501
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "«Мы просто хотели этим тупым ублюдкам показать, что мы — другие, вот и все»",
+        "date": "12/2/2017",
+        "url": "https://meduza.io/feature/2017/12/02/my-prosto-hoteli-etim-tupym-ublyudkam-pokazat-chto-my-drugie-vot-i-vse",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6602745056152344
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5112853646278381
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751483142375946
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Создавая убийц",
+        "date": "11/15/2017",
+        "url": "https://meduza.io/feature/2017/11/15/sozdavaya-ubiyts",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9262759685516357
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4933657944202423
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7517101168632507
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "🎃 Ужасы, которые вы заслужили",
+        "date": "10/29/2017",
+        "url": "https://meduza.io/slides/uzhasy-kotorye-vy-zasluzhili",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8777598738670349
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.46913275122642517
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7504194378852844
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Что было стыдно пропустить в 2016 году",
+        "date": "12/30/2016",
+        "url": "https://meduza.io/feature/2016/12/30/chto-bylo-stydno-propustit-v-2016-godu",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8678714632987976
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7194693088531494
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515863180160522
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "«Зато не как собака сдохну, а как герой»",
+        "date": "5/25/2023",
+        "url": "feature/2023/05/25/zato-ne-kak-sobaka-sdohnu-a-kak-geroy",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.46107587218284607
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5627598166465759
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515371441841125
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "«Мы просто хотели этим тупым ублюдкам показать, что мы — другие, вот и все»",
+        "date": "12/2/2017",
+        "url": "feature/2017/12/02/my-prosto-hoteli-etim-tupym-ublyudkam-pokazat-chto-my-drugie-vot-i-vse",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6602746248245239
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5112850666046143
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.751483142375946
+        }
+      }
+    },
+    {
+      "site name": "MEDUZA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "«Зато не как собака сдохну, а как герой»",
+        "date": "5/25/2023",
+        "url": "https://meduza.io/feature/2023/05/25/zato-ne-kak-sobaka-sdohnu-a-kak-geroy",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.46107587218284607
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5627598166465759
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515371441841125
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "военная служба"
+      },
+      "article": {
+        "title": "Совесть нации",
+        "subtitle": "Немцам повезло. В самый трудный момент истории среди них оказался человек, на чьи моральные оценки они могли положиться. Сто лет назад, 21 декабря, родился выдающийся немецкий писатель, лауреат Нобелевской премии Генрих Бёлль",
+        "date": "12/15/2017",
+        "url": "https://novayagazeta.ru/articles/2017/12/15/74919-sovest-natsii",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6086827516555786
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.46261388063430786
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515805959701538
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Хватит милитаризма!",
+        "subtitle": "10 тезисов о состоянии общественного мнения в России в 2019 году",
+        "date": "2/19/2020",
+        "url": "https://novayagazeta.ru/articles/2020/02/19/83994-hvatit-naraschivat-voennuyu-mosch-daesh-rost-blagosostoyaniya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8392443060874939
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.44707944989204407
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516297101974487
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война украина"
+      },
+      "article": {
+        "title": "Великая китайская криптобирюлька",
+        "subtitle": "Что стоит за новостями о «государственном биткоине КНР»",
+        "date": "8/18/2019",
+        "url": "https://novayagazeta.ru/articles/2019/08/18/81647-velikaya-kitayskaya-kriptobiryulka",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7396750450134277
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6440014839172363
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516099810600281
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Россия. ХХ век. Не самый страшный, оказалось",
+        "subtitle": "Лекции по истории, которые рекомендует Дмитрий Прокофьев",
+        "date": "10/6/2022",
+        "url": "https://novayagazeta.ru/articles/2022/10/06/rossiia-khkh-vek-ne-samyi-strashnyi-okazalos-media",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.5022926926612854
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5659902095794678
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515866756439209
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Россия. ХХ век. Не самый страшный, оказалось",
+        "subtitle": "Лекции по истории, которые рекомендует Дмитрий Прокофьев",
+        "date": "10/6/2022",
+        "url": "https://novayagazeta.ru/articles/2022/10/06/rossiia-khkh-vek-ne-samyi-strashnyi-okazalos-media",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.5022926926612854
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5659902095794678
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515866756439209
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Хватит милитаризма!",
+        "subtitle": "10 тезисов о состоянии общественного мнения в России в 2019 году",
+        "date": "2/19/2020",
+        "url": "https://novayagazeta.ru/articles/2020/02/19/83994-hvatit-naraschivat-voennuyu-mosch-daesh-rost-blagosostoyaniya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8392443060874939
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.44707944989204407
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516297101974487
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Великая китайская криптобирюлька",
+        "subtitle": "Что стоит за новостями о «государственном биткоине КНР»",
+        "date": "8/18/2019",
+        "url": "https://novayagazeta.ru/articles/2019/08/18/81647-velikaya-kitayskaya-kriptobiryulka",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7396750450134277
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.6440014839172363
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516099810600281
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Совесть нации",
+        "subtitle": "Немцам повезло. В самый трудный момент истории среди них оказался человек, на чьи моральные оценки они могли положиться. Сто лет назад, 21 декабря, родился выдающийся немецкий писатель, лауреат Нобелевской премии Генрих Бёлль",
+        "date": "12/15/2017",
+        "url": "https://novayagazeta.ru/articles/2017/12/15/74919-sovest-natsii",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.6086827516555786
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.46261388063430786
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515805959701538
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Утопительный сезон",
+        "subtitle": "У Красноярска будут новые хозяева. Иначе его могут заморозить",
+        "date": "8/14/2015",
+        "url": "https://novayagazeta.ru/articles/2015/08/14/65229-utopitelnyy-sezon",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.47956541180610657
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7548635005950928
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513502836227417
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "война"
+      },
+      "article": {
+        "title": "Хуциев",
+        "subtitle": "Он не просто уловил время, он сконструировал его",
+        "date": "11/14/2014",
+        "url": "https://novayagazeta.ru/articles/2014/11/14/61936-hutsiev",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7944276928901672
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.44362860918045044
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.6101838946342468
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "И биться цифры перестали",
+        "subtitle": "«Карусели» уходят в прошлое, вбросы делаются понемногу… Какие формы теперь принимает жульничество на выборах. Фальсификации. Краткий курс",
+        "date": "6/21/2021",
+        "url": "https://novayagazeta.ru/articles/2021/06/21/i-bitsia-tsifry-perestali",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.8793244361877441
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.494559109210968
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516700625419617
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Расколи мне купола",
+        "subtitle": "Вступив в конфликт с патриархом, схиигумен Сергий собирает армию со всей страны. Куда приведет бунт «глубинного православия»?",
+        "date": "6/26/2020",
+        "url": "https://novayagazeta.ru/articles/2020/06/26/86030-kuda-privedet-bunt-glubinnogo-pravoslaviya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9370104670524597
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5043221712112427
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.747513473033905
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "мобилизация"
+      },
+      "article": {
+        "title": "Утопительный сезон",
+        "subtitle": "У Красноярска будут новые хозяева. Иначе его могут заморозить",
+        "date": "8/14/2015",
+        "url": "https://novayagazeta.ru/articles/2015/08/14/65229-utopitelnyy-sezon",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.47956541180610657
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.7548635005950928
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7513502836227417
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Ваши недостатки нас просто убивают",
+        "subtitle": "В России почти два года длится иммуноглобулиновый кризис, 2000 больных первичным иммунодефицитом рискуют потерять здоровье",
+        "date": "11/10/2021",
+        "url": "https://novayagazeta.ru/articles/2021/11/10/vashi-nedostatki-nas-prosto-ubivaiut",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9178405404090881
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.4359757602214813
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7515875697135925
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Накрылась премия в квартал",
+        "subtitle": "Громкие заявления о поддельных подписях Родченкова оказались ерундой",
+        "date": "3/5/2020",
+        "url": "https://novayagazeta.ru/articles/2020/03/05/84192-nakrylas-premiya-v-kvartal",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7907021641731262
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5908785462379456
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516366839408875
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "призывать"
+      },
+      "article": {
+        "title": "Неуловимые мессенджеры",
+        "subtitle": "Сталкиваясь с неудобными технологиями, государство пытается избавиться от них привычным способом",
+        "date": "12/21/2015",
+        "url": "https://novayagazeta.ru/articles/2015/12/21/66893-neulovimye-messendzhery",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.7304673194885254
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.465914249420166
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.7516881227493286
+        }
+      }
+    },
+    {
+      "site name": "NOVAYA_GAZETA",
+      "search term": {
+        "search term": "рекрут"
+      },
+      "article": {
+        "title": "Расколи мне купола",
+        "subtitle": "Вступив в конфликт с патриархом, схиигумен Сергий собирает армию со всей страны. Куда приведет бунт «глубинного православия»?",
+        "date": "6/26/2020",
+        "url": "https://novayagazeta.ru/articles/2020/06/26/86030-kuda-privedet-bunt-glubinnogo-pravoslaviya",
+        "RuSentiment Model": {
+          "label": "NEGATIVE",
+          "score": 0.9370104670524597
+        },
+        "Kaggle News Model": {
+          "label": "POSITIVE",
+          "score": 0.5043221712112427
+        },
+        "General Model": {
+          "label": "NEGATIVE",
+          "score": 0.747513473033905
+        }
+      }
+    }
+  ],
+  "RuSentiment NEGATIVE, Kaggle News NEGATIVE, General Model NEGATIVE": [],
+  "RuSentiment POSITIVE, Kaggle News POSITIVE, General Model POSITIVE": []
+}

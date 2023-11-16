@@ -1,0 +1,9 @@
+{
+  "RuSentiment POSITIVE, Kaggle News POSITIVE, General Model NEGATIVE": 70,
+  "RuSentiment POSITIVE, Kaggle News NEGATIVE, General Model POSITIVE": 3,
+  "RuSentiment POSITIVE, Kaggle News NEGATIVE, General Model NEGATIVE": 13,
+  "RuSentiment NEGATIVE, Kaggle News NEGATIVE, General Model POSITIVE": 9,
+  "RuSentiment NEGATIVE, Kaggle News POSITIVE, General Model NEGATIVE": 39,
+  "RuSentiment NEGATIVE, Kaggle News NEGATIVE, General Model NEGATIVE": 0,
+  "RuSentiment POSITIVE, Kaggle News POSITIVE, General Model POSITIVE": 0
+}

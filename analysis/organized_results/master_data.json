@@ -1,0 +1,277 @@
+{
+  "total articles of all sites": 111277,
+  "total sentiment of all sites": {
+    "NEGATIVE": 39849,
+    "NEUTRAL": 265291,
+    "POSITIVE": 28688
+  },
+  "total sentiment from all articles by modal": {
+    "RuSentiment Model Totals": {
+      "NEGATIVE": 2082,
+      "NEUTRAL": 108572,
+      "POSITIVE": 622
+    },
+    "Kaggle News Model Totals": {
+      "NEGATIVE": 18541,
+      "NEUTRAL": 65847,
+      "POSITIVE": 26888
+    },
+    "General Model Totals": {
+      "NEGATIVE": 19226,
+      "NEUTRAL": 90872,
+      "POSITIVE": 1178
+    }
+  },
+  "sentiment by term": {
+    "военная служба по контракту": {
+      "total articles": 3997,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 920,
+        "NEUTRAL": 8973,
+        "POSITIVE": 2098
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 14,
+          "NEUTRAL": 3974,
+          "POSITIVE": 9
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 403,
+          "NEUTRAL": 1563,
+          "POSITIVE": 2031
+        },
+        "General Model Totals": {
+          "NEGATIVE": 503,
+          "NEUTRAL": 3436,
+          "POSITIVE": 58
+        }
+      }
+    },
+    "военная служба": {
+      "total articles": 10925,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 3370,
+        "NEUTRAL": 25446,
+        "POSITIVE": 3956
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 76,
+          "NEUTRAL": 10831,
+          "POSITIVE": 17
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 1976,
+          "NEUTRAL": 5121,
+          "POSITIVE": 3827
+        },
+        "General Model Totals": {
+          "NEGATIVE": 1318,
+          "NEUTRAL": 9494,
+          "POSITIVE": 112
+        }
+      }
+    },
+    "воинская обязанность": {
+      "total articles": 1229,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 313,
+        "NEUTRAL": 3049,
+        "POSITIVE": 325
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 8,
+          "NEUTRAL": 1220,
+          "POSITIVE": 1
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 146,
+          "NEUTRAL": 771,
+          "POSITIVE": 312
+        },
+        "General Model Totals": {
+          "NEGATIVE": 159,
+          "NEUTRAL": 1058,
+          "POSITIVE": 12
+        }
+      }
+    },
+    "война украина": {
+      "total articles": 14946,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 4633,
+        "NEUTRAL": 37693,
+        "POSITIVE": 2512
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 302,
+          "NEUTRAL": 14548,
+          "POSITIVE": 96
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 1803,
+          "NEUTRAL": 10811,
+          "POSITIVE": 2332
+        },
+        "General Model Totals": {
+          "NEGATIVE": 2528,
+          "NEUTRAL": 12334,
+          "POSITIVE": 84
+        }
+      }
+    },
+    "война": {
+      "total articles": 38384,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 16766,
+        "NEUTRAL": 89679,
+        "POSITIVE": 8707
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 1072,
+          "NEUTRAL": 36991,
+          "POSITIVE": 321
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 7492,
+          "NEUTRAL": 22970,
+          "POSITIVE": 7922
+        },
+        "General Model Totals": {
+          "NEGATIVE": 8202,
+          "NEUTRAL": 29718,
+          "POSITIVE": 464
+        }
+      }
+    },
+    "контрактник": {
+      "total articles": 997,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 647,
+        "NEUTRAL": 2113,
+        "POSITIVE": 234
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 39,
+          "NEUTRAL": 950,
+          "POSITIVE": 9
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 378,
+          "NEUTRAL": 404,
+          "POSITIVE": 216
+        },
+        "General Model Totals": {
+          "NEGATIVE": 230,
+          "NEUTRAL": 759,
+          "POSITIVE": 9
+        }
+      }
+    },
+    "мобилизация": {
+      "total articles": 10862,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 3204,
+        "NEUTRAL": 26403,
+        "POSITIVE": 2973
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 175,
+          "NEUTRAL": 10634,
+          "POSITIVE": 51
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 1209,
+          "NEUTRAL": 6875,
+          "POSITIVE": 2776
+        },
+        "General Model Totals": {
+          "NEGATIVE": 1820,
+          "NEUTRAL": 8894,
+          "POSITIVE": 146
+        }
+      }
+    },
+    "призывать": {
+      "total articles": 16894,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 6152,
+        "NEUTRAL": 41754,
+        "POSITIVE": 2779
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 307,
+          "NEUTRAL": 16490,
+          "POSITIVE": 98
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 3260,
+          "NEUTRAL": 11090,
+          "POSITIVE": 2545
+        },
+        "General Model Totals": {
+          "NEGATIVE": 2585,
+          "NEUTRAL": 14174,
+          "POSITIVE": 136
+        }
+      }
+    },
+    "рекрут": {
+      "total articles": 567,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 215,
+        "NEUTRAL": 1339,
+        "POSITIVE": 147
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 20,
+          "NEUTRAL": 538,
+          "POSITIVE": 9
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 129,
+          "NEUTRAL": 302,
+          "POSITIVE": 136
+        },
+        "General Model Totals": {
+          "NEGATIVE": 66,
+          "NEUTRAL": 499,
+          "POSITIVE": 2
+        }
+      }
+    },
+    "специальная военная операция": {
+      "total articles": 12476,
+      "Term Sentiment Totals": {
+        "NEGATIVE": 3629,
+        "NEUTRAL": 28842,
+        "POSITIVE": 4957
+      },
+      "Specific Model Totals": {
+        "RuSentiment Model Totals": {
+          "NEGATIVE": 69,
+          "NEUTRAL": 12396,
+          "POSITIVE": 11
+        },
+        "Kaggle News Model Totals": {
+          "NEGATIVE": 1745,
+          "NEUTRAL": 5940,
+          "POSITIVE": 4791
+        },
+        "General Model Totals": {
+          "NEGATIVE": 1815,
+          "NEUTRAL": 10506,
+          "POSITIVE": 155
+        }
+      }
+    }
+  }
+}
