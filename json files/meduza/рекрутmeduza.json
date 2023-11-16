@@ -1,0 +1,21 @@
+{
+    "news site": "meduza",
+    "search term": "рекрут",
+    "total articles": 2,
+    "articles": [
+        {
+            "article1": {
+                "title": "Число погибших в результате стрельбы в Теннесси возросло до пяти",
+                "date": "7/18/2015",
+                "url": "https://meduza.io/news/2015/07/18/chislo-pogibshih-v-rezultate-strelby-v-tennessi-vozroslo-do-pyati"
+            }
+        },
+        {
+            "article2": {
+                "title": "«Он был прокурором, адвокатом и судьей»",
+                "date": "2/20/2017",
+                "url": "https://meduza.io/feature/2017/02/20/on-byl-prokurorom-advokatom-i-sudiey"
+            }
+        }
+    ]
+}

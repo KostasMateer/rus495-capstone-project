@@ -1,0 +1,62 @@
+{
+    "news site": "meduza",
+    "search term": "воинская обязанность",
+    "total articles": 8,
+    "articles": [
+        {
+            "article1": {
+                "title": "«Здесь не может быть человеческих комментариев. Есть закон». Кремль — о призыве в армию вратаря сборной России по хоккею Ивана Федотова",
+                "date": "7/4/2022",
+                "url": "https://meduza.io/news/2022/07/04/zdes-ne-mozhet-byt-chelovecheskih-kommentariev-est-zakon-kreml-o-prizyve-v-armiyu-vratarya-sbornoy-rossii-po-hokkeyu-ivana-fedotova"
+            }
+        },
+        {
+            "article2": {
+                "title": "В России снова заговорили о всеобщей мобилизации. Без нее Путину войну не выиграть? Если так, почему ее до сих пор не объявили?",
+                "date": "9/18/2022",
+                "url": "https://meduza.io/feature/2022/09/18/v-rossii-snova-zagovorili-o-vseobschey-mobilizatsii-bez-nee-putinu-voynu-ne-vyigrat-esli-tak-pochemu-ee-do-sih-por-ne-ob-yavili"
+            }
+        },
+        {
+            "article3": {
+                "title": "Вратаря Ивана Федотова забрали в армию, когда он решил уехать в НХЛ. Другие хоккеисты молчат, Минспорта говорит о необходимости «жить по закону»",
+                "date": "7/4/2022",
+                "url": "https://meduza.io/feature/2022/07/04/vratarya-ivana-fedotova-zabrali-v-armiyu-kogda-on-reshil-uehat-v-nhl-drugie-hokkeisty-molchat-kreml-govorit-o-neobhodimosti-zhit-po-zakonu"
+            }
+        },
+        {
+            "article4": {
+                "title": "Чего хотели декабристы? Почему они проиграли? Они были «иностранными агентами»? И такими бездарными, как показано в фильме «Союз спасения»?",
+                "date": "12/26/2019",
+                "url": "https://meduza.io/feature/2019/12/26/chego-hoteli-dekabristy-pochemu-oni-proigrali-oni-byli-inostrannymi-agentami-i-takimi-bezdarnymi-kak-pokazano-v-filme-soyuz-spaseniya"
+            }
+        },
+        {
+            "article5": {
+                "title": "Швеция возвращает воинский призыв спустя семь лет после его отмены",
+                "date": "3/2/2017",
+                "url": "https://meduza.io/feature/2017/03/02/shvetsiya-vozvraschaet-voinskiy-prizyv-spustya-sem-let-posle-ego-otmeny"
+            }
+        },
+        {
+            "article6": {
+                "title": "«Долой призывное рабство!»",
+                "date": "11/12/2016",
+                "url": "https://meduza.io/feature/2016/11/12/doloy-prizyvnoe-rabstvo"
+            }
+        },
+        {
+            "article7": {
+                "title": "Сноуден получил гражданство РФ. Его теперь отправят на фронт? (Это важный вопрос для многих иностранцев, переехавших в Россию)",
+                "date": "9/28/2022",
+                "url": "https://meduza.io/cards/snouden-poluchil-grazhdanstvo-rf-ego-teper-otpravyat-na-front-eto-vazhnyy-vopros-dlya-mnogih-inostrantsev-pereehavshih-v-rossiyu"
+            }
+        },
+        {
+            "article8": {
+                "date": "NaN/NaN/NaN",
+                "url": "https://meduza.io/undefined"
+            }
+        }
+    ]
+}

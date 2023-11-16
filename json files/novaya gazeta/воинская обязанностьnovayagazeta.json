@@ -1,0 +1,119 @@
+{
+    "news site": "novaya gazeta",
+    "search term": "воинская обязанность",
+    "total articles": 14,
+    "articles": [
+        {
+            "article1": {
+                "title": "Без воя",
+                "subtitle": "«Увага всім!» («Внимание всем!») — тренировочные сирены гражданской обороны — в Киеве включать передумали, а приказ о постановке женщин на воинский учет хотят оспорить",
+                "date": "12/30/2021",
+                "url": "https://novayagazeta.ru/articles/2021/12/30/bez-voia"
+            }
+        },
+        {
+            "article2": {
+                "title": "«Наши потери растут»",
+                "subtitle": "Перед голосованием по Конституции коронавирус исчез только из телевизора. А врачи по-прежнему выбиваются из сил. Что происходит в регионах России",
+                "date": "6/18/2020",
+                "url": "https://novayagazeta.ru/articles/2020/06/18/85894-nashi-poteri-rastut"
+            }
+        },
+        {
+            "article3": {
+                "title": "Откосить от армии законно — опция для всех",
+                "subtitle": "Глава «Русско-немецкого обмена» в Берлине — об альтернативе призывной армии",
+                "date": "6/1/2020",
+                "url": "https://novayagazeta.ru/articles/2020/06/01/85647-shtefan-melle-obschestvo-zhivet-ot-grazhdanskih-idey-i-deystviy"
+            }
+        },
+        {
+            "article4": {
+                "title": "The Insider обнаружил связь предполагаемого лидера Тамбовской ОПГ с главой службы экономической безопасности ФСБ",
+                "subtitle": "",
+                "date": "12/20/2018",
+                "url": "https://novayagazeta.ru/articles/2018/12/20/147806-the-insider-obnaruzhil-svyaz-predpolagaemogo-lidera-tambovskoy-opg-s-glavoy-sluzhby-ekonomicheskoy-bezopasnosti-fsb"
+            }
+        },
+        {
+            "article5": {
+                "title": "Матросы и тишина",
+                "subtitle": "Пропавших с крейсера «Москва» русских матросов искали даже греческие православные монахи, Родина объявила их дезертирами",
+                "date": "11/29/2017",
+                "url": "https://novayagazeta.ru/articles/2017/11/29/74731-matrosy-i-tishina"
+            }
+        },
+        {
+            "article6": {
+                "title": "Их просто нет. Расследование",
+                "subtitle": "Сирийская кампания загадочной «ЧВК Вагнера»: численный состав и вооружение, ключевые операции и конфликт в верхушке Минобороны",
+                "date": "10/9/2017",
+                "url": "https://novayagazeta.ru/articles/2017/10/09/74125-ih-prosto-net"
+            }
+        },
+        {
+            "article7": {
+                "title": "Где данные с А-50? Продолжаем расследовать обстоятельства гибели «Боинга» над Украиной",
+                "subtitle": " Почему версия о том, что «Боинг» МН17 сбил украинский истребитель, базируется на показаниях беглого ефрейтора, а не на данных российского самолета дальнего радиолокационного обнаружения, держащего воздушное пространство под постоянным контролем",
+                "date": "6/30/2015",
+                "url": "https://novayagazeta.ru/articles/2015/06/30/64734-gde-dannye-s-a-50-prodolzhaem-rassledovat-obstoyatelstva-gibeli-171-boinga-187-nad-ukrainoy"
+            }
+        },
+        {
+            "article8": {
+                "title": "Елена Лукьянова: «Я все время пытаюсь встать на его точку зрения, оправдать его…»",
+                "subtitle": "Известный юрист — о том, что случилось с главой Конституционного суда Валерием Зорькиным, о судьях, праве и поколении, которое не помнит Советского Союза",
+                "date": "6/12/2015",
+                "url": "https://novayagazeta.ru/articles/2015/06/12/64496-elena-lukyanova-171-ya-vse-vremya-pytayus-vstat-na-ego-tochku-zreniya-opravdat-ego-8230-187"
+            }
+        },
+        {
+            "article9": {
+                "title": "Украина не хочет обмена и настаивает на открытом суде",
+                "subtitle": "Кого и при каких обстоятельствах взяли в плен в районе города Счастья: взгляд из Киева, Луганска, Москвы и Тольятти",
+                "date": "5/19/2015",
+                "url": "https://novayagazeta.ru/articles/2015/05/19/64198-ukraina-ne-hochet-obmena-i-nastaivaet-na-otkrytom-sude"
+            }
+        },
+        {
+            "article10": {
+                "title": "Военно-полевой детектив",
+                "subtitle": "Публикуем рапорт доктора, воюющего в ДНР. Помимо кровопролитных боев ополченцы участвуют в междоусобных разборках и разделе российских гуманитарных грузов",
+                "date": "11/19/2014",
+                "url": "https://novayagazeta.ru/articles/2014/11/19/61997-voenno-polevoy-detektiv"
+            }
+        },
+        {
+            "article11": {
+                "title": "«Несчастный случай в быту»",
+                "subtitle": "15 лет назад, 16 сентября 1999 года, был взорван Волгодонск. Это был крупнейший теракт, который у нас в стране назван «Несчастный случай в быту»",
+                "date": "9/17/2014",
+                "url": "https://novayagazeta.ru/articles/2014/09/17/61172-171-neschastnyy-sluchay-v-bytu-187"
+            }
+        },
+        {
+            "article12": {
+                "title": "Андрей ЖИЛЯЕВ: «Потеря контакта с самим собой  проблема целого общества»",
+                "subtitle": "Можно ли обрести чувство счастья и как избежать разрушительной агрессии?",
+                "date": "8/12/2014",
+                "url": "https://novayagazeta.ru/articles/2014/08/12/60708-andrey-zhilyaev-171-poterya-kontakta-s-samim-soboy-151-problema-tselogo-obschestva-187"
+            }
+        },
+        {
+            "article13": {
+                "title": "«Гюрзу» арестовали",
+                "subtitle": "Орхан Джемаль — с подробностями о том, как в пригороде Донецка попал под обстрел автобус с журналистами и солдатскими матерями, и что случилось после этого",
+                "date": "6/30/2014",
+                "url": "https://novayagazeta.ru/articles/2014/06/30/60163-171-gyurzu-187-arestovali"
+            }
+        },
+        {
+            "article14": {
+                "title": "Воинская часть под Луганском сдалась ополченцам",
+                "subtitle": "",
+                "date": "5/29/2014",
+                "url": "https://novayagazeta.ru/articles/2014/05/29/101244-voinskaya-chast-pod-luganskom-sdalas-opolchentsam"
+            }
+        }
+    ]
+}

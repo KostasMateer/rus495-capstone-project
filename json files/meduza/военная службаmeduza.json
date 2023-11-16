@@ -1,0 +1,161 @@
+{
+    "news site": "meduza",
+    "search term": "военная служба",
+    "total articles": 23,
+    "articles": [
+        {
+            "article1": {
+                "title": "Сможете стать британцем?",
+                "date": "10/25/2018",
+                "url": "https://meduza.io/quiz/smozhete-stat-britantsem"
+            }
+        },
+        {
+            "article2": {
+                "title": "300 лет назад появилась Табель о рангах — первое подобие социального лифта в России",
+                "date": "2/5/2022",
+                "url": "https://meduza.io/quiz/300-let-nazad-poyavilas-tabel-o-rangah-pervoe-podobie-sotsialnogo-lifta-v-rossii"
+            }
+        },
+        {
+            "article3": {
+                "title": "В Тель-Авиве акция противников правительства Эритреи переросла в беспорядки, пострадали более 150 человек",
+                "date": "9/2/2023",
+                "url": "https://meduza.io/news/2023/09/02/v-tel-avive-aktsiya-protivnikov-pravitelstva-eritrei-pererosla-v-besporyadki-postradali-bolee-150-chelovek"
+            }
+        },
+        {
+            "article4": {
+                "title": "«Тянуть с процедурой нет необходимости». Депутат Картаполов пообещал, что осенью Госдума рассмотрит поправки об уголовном наказании за уклонение от мобилизации",
+                "date": "8/4/2023",
+                "url": "https://meduza.io/news/2023/08/04/tyanut-s-protseduroy-net-neobhodimosti-deputat-kartapolov-poobeschal-chto-osenyu-gosduma-rassmotrit-popravki-ob-ugolovnom-nakazanii-za-uklonenie-ot-mobilizatsii"
+            }
+        },
+        {
+            "article5": {
+                "title": "Суд в Петербурге зарегистрировал первый иск об отмене мобилизационной повестки",
+                "date": "9/30/2022",
+                "url": "https://meduza.io/news/2022/09/30/sud-v-peterburge-zaregistriroval-pervyy-isk-ob-otmene-mobilizatsionnoy-povestki"
+            }
+        },
+        {
+            "article6": {
+                "title": "Украинская армия сообщила о прибытии эвакуированных с «Азовстали» мирных жителей в Запорожье",
+                "date": "5/2/2022",
+                "url": "https://meduza.io/news/2022/05/02/ukrainskaya-armiya-soobschila-o-pribytii-evakuirovannyh-s-azovstali-mirnyh-zhiteley-v-zaporozhie"
+            }
+        },
+        {
+            "article7": {
+                "title": "В России планируют на пять лет увеличить срок службы для военной пенсии",
+                "date": "6/15/2017",
+                "url": "https://meduza.io/news/2017/06/15/v-rossii-planiruyut-na-pyat-let-uvelichit-srok-sluzhby-dlya-voennoy-pensii"
+            }
+        },
+        {
+            "article8": {
+                "title": "Литва возобновила призыв на обязательную военную службу",
+                "date": "3/19/2015",
+                "url": "https://meduza.io/news/2015/03/19/litva-vozobnovila-prizyv-na-obyazatelnuyu-voennuyu-sluzhbu"
+            }
+        },
+        {
+            "article9": {
+                "title": "Литва собралась возобновить призыв на обязательную военную службу",
+                "date": "2/24/2015",
+                "url": "https://meduza.io/news/2015/02/24/litva-sobralas-vozobnovit-prizyv-na-obyazatelnuyu-voennuyu-sluzhbu"
+            }
+        },
+        {
+            "article10": {
+                "title": "Это наше 11 сентября",
+                "date": "10/9/2023",
+                "url": "https://meduza.io/feature/2023/10/09/eto-nashe-11-sentyabrya"
+            }
+        },
+        {
+            "article11": {
+                "title": "Россиян вербуют на войну в пабликах бюджетных учреждений, школах и даже детских садах",
+                "date": "4/19/2023",
+                "url": "https://meduza.io/feature/2023/04/19/rossiyan-verbuyut-na-voynu-v-pablikah-byudzhetnyh-uchrezhdeniy-shkolah-i-dazhe-detskih-sadah"
+            }
+        },
+        {
+            "article12": {
+                "title": "Российским призывникам обычно отказывают в альтернативной службе — но добиться ее все-таки вполне реально",
+                "date": "3/10/2023",
+                "url": "https://meduza.io/feature/2023/03/10/rossiyskim-prizyvnikam-obychno-otkazyvayut-v-alternativnoy-sluzhbe-no-dobitsya-ee-vse-taki-vpolne-realno"
+            }
+        },
+        {
+            "article13": {
+                "title": "«Пусть лучше она там где-нибудь умрет»",
+                "date": "11/9/2022",
+                "url": "https://meduza.io/feature/2022/11/09/pust-luchshe-ona-tam-gde-nibud-umret"
+            }
+        },
+        {
+            "article14": {
+                "title": "«Турист или шпион?»",
+                "date": "7/25/2022",
+                "url": "https://meduza.io/feature/2022/07/25/turist-ili-shpion"
+            }
+        },
+        {
+            "article15": {
+                "title": "«Самое небезопасное — думать, что если тебе не вручили повестку, то все само пройдет»",
+                "date": "7/13/2022",
+                "url": "https://meduza.io/feature/2022/07/13/samoe-nebezopasnoe-dumat-chto-esli-tebe-ne-vruchili-povestku-to-vse-samo-proydet"
+            }
+        },
+        {
+            "article16": {
+                "title": "«Можно сравнить с первой чеченской»",
+                "date": "5/25/2022",
+                "url": "https://meduza.io/feature/2022/05/25/mozhno-sravnit-s-pervoy-chechenskoy"
+            }
+        },
+        {
+            "article17": {
+                "title": "«Говорила себе, что я — овощ»",
+                "date": "7/8/2021",
+                "url": "https://meduza.io/feature/2021/07/08/govorila-sebe-chto-ya-ovosch"
+            }
+        },
+        {
+            "article18": {
+                "title": "«В Аргентине, краю беглецов, прошлого не существует»",
+                "date": "8/2/2020",
+                "url": "https://meduza.io/feature/2020/08/02/v-argentine-krayu-begletsov-proshlogo-ne-suschestvuet"
+            }
+        },
+        {
+            "article19": {
+                "title": "Отставного полковника австрийской армии задержали за шпионаж. Он 20 лет работал на Россию",
+                "date": "11/9/2018",
+                "url": "https://meduza.io/feature/2018/11/09/otstavnogo-polkovnika-avstriyskoy-armii-zaderzhali-za-shpionazh-on-20-let-rabotal-na-rossiyu"
+            }
+        },
+        {
+            "article20": {
+                "title": "Махровый националист, которому, возможно, мстили за провал Анны Чапман",
+                "date": "10/5/2018",
+                "url": "https://meduza.io/feature/2018/10/05/mahrovyy-natsionalist-kotoromu-vozmozhno-mstili-za-proval-anny-chapman"
+            }
+        },
+        {
+            "article21": {
+                "title": "Журналист «Медузы» запросил у «ВКонтакте» полный архив своих данных. Он получил файл на шесть миллионов строк — и в нем не хватало информации",
+                "date": "9/21/2018",
+                "url": "https://meduza.io/feature/2018/09/21/zhurnalist-meduzy-zaprosil-u-vkontakte-polnyy-arhiv-svoih-dannyh-on-poluchil-fayl-na-shest-millionov-strok-i-v-nem-ne-hvatalo-informatsii"
+            }
+        },
+        {
+            "article22": {
+                "title": "«Московский комсомолец» написал об огромной компенсации от силовиков семье погибшего на Арбате сотрудника ГИБДД. И это очень странная история",
+                "date": "11/1/2017",
+                "url": "https://meduza.io/feature/2017/11/01/moskovskiy-komsomolets-napisal-ob-ogromnoy-kompensatsii-ot-silovikov-semie-pogibshego-na-arbate-sotrudnika-gibdd-i-eto-ochen-strannaya-istoriya"
+            }
+        }
+    ]
+}
